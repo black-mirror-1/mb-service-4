@@ -41,10 +41,10 @@ app.get('/', (req, res) => {
   res.setHeader('Content-Type', 'text/html');
   res.end('<html lang="en"> \
   <head> \
-      <title>mb-service-2</title> \
+      <title>mb-service-4</title> \
   </head> \
   <body> \
-      <h1>Hello, you have reached mb-service-2!</h1> \
+      <h1>Hello, you have reached mb-service-4!</h1> \
       <h1>Version: V3</h1>  \
   </body> \
    </html>');
