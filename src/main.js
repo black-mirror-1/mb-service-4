@@ -43,7 +43,7 @@ app.get('/', (req, res) => {
   <head> \
       <title>mb-service-4</title> \
   </head> \
-  <body> \
+  <body style="background-color:DarkSlateGrey;"> \
       <h1>Hello, you have reached mb-service-4!</h1> \
       <h1>Version: V1</h1>  \
   </body> \
